@@ -26,3 +26,4 @@ print(f"The average daily return for {ticker} is {avg_daily_return}")
 
 
 
+
